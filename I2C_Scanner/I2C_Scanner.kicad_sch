@@ -10940,7 +10940,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5KΩ"
+		(property "Value" "5.1KΩ"
 			(at 130.81 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13450,7 +13450,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5KΩ"
+		(property "Value" "5.1KΩ"
 			(at 132.334 62.484 90)
 			(show_name no)
 			(do_not_autoplace no)
